@@ -1,0 +1,15 @@
+*.pyc
+*.log
+gytha1/logs
+gytha1/export_deliverables
+gytha1/cantaloupe/*
+gytha1/staticfiles
+gytha1/media/packages
+gytha1/media/node_modules
+gytha1/media/build/*
+gytha1/uploadedfiles/*
+gytha1/settings_local.py
+gytha1/webpack/webpack-stats.json
+gytha1/webpack/webpack-user-config.js
+.vscode/
+CACHE
